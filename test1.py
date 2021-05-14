@@ -1,7 +1,7 @@
 try:
     import cv2
 except Exception as e:
-    print("Warning: bitch")
+    print("Warning: CV not working")
 
 from time import sleep
 import thread
